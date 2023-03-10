@@ -1,0 +1,26 @@
+.button {
+	display: inline-block;
+	height: 50px;
+	padding: 10px 50px;
+	border: 2px solid black;
+	border-radius: 20px;
+	font-size: 20px;
+	text-transform: capitalize;
+	cursor: pointer;
+	background-color: #ff8906;
+	color:#fffffe;
+}
+
+.search {
+	padding: 0 30px;
+	font-size: 18px;
+	width: 60%;
+	max-width: 400px;
+	height: 50px;
+	border: 2px solid darken(white, 30%);
+	border-radius: 20px;
+	margin-right: 100px;
+	background-color: rgb(227, 227, 227);
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
